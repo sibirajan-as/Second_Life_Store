@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Second_Life_Store/static/css/main.fc645708.css",
+    "main.js": "/Second_Life_Store/static/js/main.55c15ee3.js",
+    "static/js/453.183908db.chunk.js": "/Second_Life_Store/static/js/453.183908db.chunk.js",
+    "index.html": "/Second_Life_Store/index.html",
+    "main.fc645708.css.map": "/Second_Life_Store/static/css/main.fc645708.css.map",
+    "main.55c15ee3.js.map": "/Second_Life_Store/static/js/main.55c15ee3.js.map",
+    "453.183908db.chunk.js.map": "/Second_Life_Store/static/js/453.183908db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc645708.css",
+    "static/js/main.55c15ee3.js"
+  ]
+}
